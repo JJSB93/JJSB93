@@ -24,6 +24,7 @@ Actualmente estoy cursando un **Máster Full Stack** y reforzando mi base en pro
 
 ## 🎮 Proyecto destacado
 ### **Arcade Pong (Pong Engine Project)**
+[VERONG](https://github.com/JJSB93/VERONG-Pong)
 Mi primer proyecto con verdadera dedicación. Una versión funcional del clásico Pong, creada completamente desde cero.
 
 Incluye:
